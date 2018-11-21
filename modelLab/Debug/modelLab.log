@@ -1,0 +1,12 @@
+﻿  Main.cpp
+c:\users\caoimhe\documents\graphics\modellab\modellab\main.cpp(328): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caoimhe\documents\graphics\modellab\modellab\main.cpp(338): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caoimhe\documents\graphics\modellab\modellab\main.cpp(357): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caoimhe\documents\graphics\modellab\modellab\main.cpp(496): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caoimhe\documents\graphics\modellab\modellab\main.cpp(502): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caoimhe\documents\graphics\modellab\modellab\main.cpp(507): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caoimhe\documents\graphics\modellab\modellab\main.cpp(512): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caoimhe\documents\graphics\modellab\modellab\main.cpp(517): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caoimhe\documents\graphics\modellab\modellab\main.cpp(522): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caoimhe\documents\graphics\modellab\modellab\main.cpp(527): warning C4305: 'argument': truncation from 'double' to 'float'
+  modelLab.vcxproj -> C:\Users\Caoimhe\Documents\graphics\modelLab\Debug\modelLab.exe
